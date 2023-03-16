@@ -1,0 +1,32 @@
+html:not(.dark) {
+    /* light mode css here */
+    --code-block-bg-color: #e5e5e5; /* neutral 200 */
+}
+
+html.dark {
+    /* dark mode css here */
+    --code-block-bg-color: #404040; /* neutral 700 */
+}
+
+/* make default code block darker */
+code:not(:has(span)) {
+    background-color: var(--code-block-bg-color)!important;
+    padding-right: .3rem;
+    padding-left: .3rem;
+}
+code:not(:has(span))::before,
+code:not(:has(span))::after {
+    content: none;
+}
+
+.slidev-code {
+    background-color: var(--code-block-bg-color)!important;
+}
+
+div[style*="background-image:"] {
+    background-size: contain!important;
+}
+
+
+
+
