@@ -1,13 +1,13 @@
 <template>
   <!-- bg images -->
   <div v-if="$slidev.nav.currentPage !== 1">
-    <img src="./images/bg-layout-tr.svg" class="abs-tr w-25 -top-3 -right-5" />
+    <img src="/bg-layout-tr.svg" class="abs-tr w-25 -top-3 -right-5" />
     <img
-      src="./images/bg-layout-br-filled.svg"
+      src="/bg-layout-br-filled.svg"
       class="abs-br w-75 -bottom-30 -right-30"
     />
     <img
-      src="./images/bg-layout-br-stroke.svg"
+      src="/bg-layout-br-stroke.svg"
       class="abs-br w-60 -bottom-25 -right-8 -rotate-5"
     />
 

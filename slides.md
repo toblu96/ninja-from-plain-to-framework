@@ -27,7 +27,7 @@ download: true
 # new cover
 layout: ninja-cover
 date: "17.03.2023"
-image: "./images/mockup-skeleton.png"
+image: "/mockup-skeleton.png"
 imageClass: "translate-y-6"
 # githubUrl: "https://www.holynope.com"
 ---
@@ -38,7 +38,7 @@ imageClass: "translate-y-6"
 
 ---
 layout: image-right
-image: ./images/mockup-skeleton.png
+image: /mockup-skeleton.png
 ---
 
 # Agenda
@@ -129,4 +129,4 @@ Tech stack
 # Working on Mockup
 Basic component structuring
 
-<img src="/images/basic-mockup.jpg" class="h-75% shadow-md b-1">
+<img src="/basic-mockup.jpg" class="h-75% shadow-md b-1">

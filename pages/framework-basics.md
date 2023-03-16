@@ -1,7 +1,7 @@
 # <twemoji-sparkles/> Frameworks - Common Structures of Website
 
 <br/>
-<img src="/images/frameworks/nuxt-website-component-overview.png" class="w-80% b-1 shadow-md">
+<img src="/frameworks/nuxt-website-component-overview.png" class="w-80% b-1 shadow-md">
 
 <v-clicks>
     <div v-click-hide="2" id="layout-nav-highlighter" class="b-2 border-teal-300 w-179 h-10 abs-tl top-30 left-11 shadow-lg rounded-md"></div>
@@ -15,21 +15,21 @@
 # <twemoji-sparkles/> Frameworks - Views
 Layouts
 
-<img src="/images/frameworks/nuxt-layouts.svg" class="h-80% ">
+<img src="/frameworks/nuxt-layouts.svg" class="h-80% ">
 
 ---
 
 # <twemoji-sparkles/> Frameworks - Views
 Pages
 
-<img src="/images/frameworks/nuxt-pages.svg" class="h-80% ">
+<img src="/frameworks/nuxt-pages.svg" class="h-80% ">
 
 ---
 
 # <twemoji-sparkles/> Frameworks - Views
 Components
 
-<img src="/images/frameworks/nuxt-components.svg" class="h-80% ">
+<img src="/frameworks/nuxt-components.svg" class="h-80% ">
 
 ---
 
