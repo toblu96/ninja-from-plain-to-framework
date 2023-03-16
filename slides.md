@@ -38,7 +38,7 @@ imageClass: "translate-y-6"
 
 ---
 layout: image-right
-image: /mockup-skeleton.png
+image: ./mockup-skeleton.png
 ---
 
 # Agenda
