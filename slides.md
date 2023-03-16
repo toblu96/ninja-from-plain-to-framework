@@ -27,7 +27,7 @@ download: true
 # new cover
 layout: ninja-cover
 date: "17.03.2023"
-image: "/mockup-skeleton.png"
+image: "./mockup-skeleton.png"
 imageClass: "translate-y-6"
 # githubUrl: "https://www.holynope.com"
 ---
