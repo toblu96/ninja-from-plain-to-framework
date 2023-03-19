@@ -1,0 +1,36 @@
+<svg width="499" height="363" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xml:space="preserve" overflow="hidden">
+    <defs>
+        <clipPath id="clip0">
+            <rect x="1006" y="573" width="499" height="363" />
+        </clipPath>
+        <clipPath id="clip1">
+            <path d="M1058.17 573.239 1504.74 655.057 1453.38 935.391 1006.81 853.572Z" fill-rule="evenodd"
+                clip-rule="evenodd" />
+        </clipPath>
+        <clipPath id="clip2">
+            <path d="M1058.17 573.239 1504.74 655.057 1453.38 935.391 1006.81 853.572Z" fill-rule="evenodd"
+                clip-rule="evenodd" />
+        </clipPath>
+        <clipPath id="clip3">
+            <path d="M1058.17 573.239 1504.74 655.057 1453.38 935.391 1006.81 853.572Z" fill-rule="evenodd"
+                clip-rule="evenodd" />
+        </clipPath>
+        <linearGradient x1="1278.27" y1="608.544" x2="1208.2" y2="1084.1" gradientUnits="userSpaceOnUse"
+            spreadMethod="pad" id="fill4">
+            <stop offset="0" stop-color="#5eead4" />
+            <stop offset="1" stop-color="#5eead4" stop-opacity="0" />
+        </linearGradient>
+    </defs>
+    <g clip-path="url(#clip0)" transform="translate(-1006 -573)">
+        <g clip-path="url(#clip1)">
+            <g clip-path="url(#clip2)">
+                <g clip-path="url(#clip3)">
+                    <path
+                        d="M1482.31 728.632C1363.4 683.598 1298.33 602.151 1067.26 578.464 1059.5 577.669 1053.98 585.928 1057.36 592.955 1186.58 861.308 1116.65 917.667 1186.12 1070.05 1188.81 1075.95 1196.44 1077.63 1201.42 1073.47 1335.83 961.134 1405.62 888.503 1487.65 743.1 1490.7 737.696 1488.11 730.829 1482.31 728.632Z"
+                        fill="url(#fill4)" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
