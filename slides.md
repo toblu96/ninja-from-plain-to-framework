@@ -89,9 +89,10 @@ Requirement ideas for tech stack
 
 - TypeScript support
 - Rich ecosystem
-- Some o
+- Large community
+- Performance
 - Error handling, data fetching, state handling, ...
-- Easy to start with (good DX)
+- Easy to start with / learn (good DX)
 - ❓ Other things
 
 
